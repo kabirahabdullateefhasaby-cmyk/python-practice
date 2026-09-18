@@ -1,8 +1,0 @@
-name = "kabeerah"
-num = 1
-sit = 1.3
-fast = True
-print(type(name))
-print(type(num))
-print(type(sit))
-print(type(fast))

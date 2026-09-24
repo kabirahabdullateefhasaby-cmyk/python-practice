@@ -3,11 +3,6 @@ def cafe_calculator(a, operator, b):
     if operator == "+":
         return a + b
 
-def cafe_calculator(a, operator, b):
-
-    if operator == "+":
-        return a + b
-
     elif operator == "-":
         return a - b
 
